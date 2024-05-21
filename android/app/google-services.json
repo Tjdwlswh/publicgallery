@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "688210817581",
+    "project_id": "publicgalleryjiny",
+    "storage_bucket": "publicgalleryjiny.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688210817581:android:d3649ea69cf0ce14b27ea4",
+        "android_client_info": {
+          "package_name": "com.publicgalleryjiny"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL0uN2oFJn7AYi247ZZ2AsIF0PsdkM6Uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
